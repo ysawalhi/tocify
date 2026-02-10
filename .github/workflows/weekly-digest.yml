@@ -1,9 +1,9 @@
 name: Weekly ToC Digest
 
 on:
-  schedule:
+  #schedule:
     # Mondays 08:00 America/Los_Angeles ≈ 16:00 UTC (adjust if you like)
-    - cron: "00 16 * * 1"
+   # - cron: "00 16 * * 1"
   workflow_dispatch:
 
 permissions:
