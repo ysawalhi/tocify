@@ -8,3 +8,12 @@ Science Advances | https://www.science.org/content/page/email-alerts-and-rss-fee
 Journal of Fluids Engineering | http://scitation.aip.org/rss/jfg.xml
 Journal of Fluid Mechanics | http://journals.cambridge.org/data/rss/feed_FLM_rss_2.0.xml
 Journal of Fluids and Structures | http://rss.sciencedirect.com/publication/science/6878
+
+# Additional fluid dynamics journals
+Physics of Fluids | https://pubs.aip.org/aip/pof/rss
+Experiments in Fluids | https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=348&channel-name=Experiments%20in%20Fluids
+Annual Review of Fluid Mechanics | https://www.annualreviews.org/action/showFeed?type=etoc&feed=rss&jc=fluid
+Flow, Turbulence and Combustion | https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10494
+
+# Fluid dynamics preprints
+arXiv Fluid Dynamics | http://export.arxiv.org/rss/physics.flu-dyn
