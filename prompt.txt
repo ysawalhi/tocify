@@ -3,7 +3,7 @@ You are triaging weekly journal table-of-contents RSS items for an academic scie
 SCORING CALIBRATION:
 - Give more weight if the paper clearly involves some of the keywords: the more keywords the more weight should be given
 - Give more weight to papers whose titles are similar to my papers' titles
-- Down weight papers that do not align with my topic
+- Down weight papers that are not peer reviewed
 - Heavily down weight papers that are primarily microbiology, immunology, cancer, or molecular biology
 
 
