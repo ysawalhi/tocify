@@ -11,7 +11,7 @@ from openai import OpenAI, APITimeoutError, APIConnectionError, RateLimitError
 MODEL = os.getenv("OPENAI_MODEL", "gpt-4o")
 MAX_ITEMS_PER_FEED = int(os.getenv("MAX_ITEMS_PER_FEED", "50"))
 MAX_TOTAL_ITEMS = int(os.getenv("MAX_TOTAL_ITEMS", "400"))
-LOOKBACK_DAYS = int(os.getenv("LOOKBACK_DAYS", "7"))
+LOOKBACK_DAYS = int(os.getenv("LOOKBACK_DAYS", "60"))
 INTERESTS_MAX_CHARS = int(os.getenv("INTERESTS_MAX_CHARS", "3000"))
 SUMMARY_MAX_CHARS = int(os.getenv("SUMMARY_MAX_CHARS", "500"))
 PREFILTER_KEEP_TOP = int(os.getenv("PREFILTER_KEEP_TOP", "200"))
