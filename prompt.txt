@@ -9,6 +9,9 @@ SCORING CALIBRATION:
 
 Prioritize and heavily weight:
 - Particle tracking experiments
+- fluid dynamics experiments
+- water tunnel experiements
+- wind tunnel experiments
 
 Output rules:
 - Return JSON strictly matching the schema.
