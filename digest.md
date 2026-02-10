@@ -1,9 +1,9 @@
 # Weekly ToC Digest (week of 2026-02-10)
 
-No articles related to particle tracking, fluid dynamics, or tunnel experiments were found. No relevant papers matching particle tracking, fluid dynamics, water or wind tunnel experiments.
+No directly relevant articles related to user interests in particle tracking, fluid dynamics, water tunnels, or wind tunnels. Papers primarily align with other fields. No items matched directly with the high-priority areas like particle tracking or fluid dynamics experiments, so the list is minimal with heavily down-weighted topics.
 
 **Included:** 0 (score ≥ 0.35)  
-**Scored:** 3 total items
+**Scored:** 2 total items
 
 ---
 
