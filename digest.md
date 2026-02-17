@@ -1,19 +1,19 @@
 # Weekly ToC Digest (week of 2026-02-17)
 
-Ranked items prioritized for experimental fluid dynamics, optical/laser diagnostics, wall-bounded turbulence, jets, droplet dynamics, and particle/particle-tracking-relevant studies. Selected and ranked items most relevant to experimental fluid mechanics, particle/optical diagnostics, water/hot-flow tunnel work, and free-surface/particle-tracking studies. Prioritized experimental fluid-dynamics and measurement-methods papers (particle/turbulence experiments, optical/laser diagnostics, and data-processing methods). Non-peer-reviewed news items are down-weighted.
+Prioritized experimental and diagnostics papers (particle/jet/droplet experiments, wall-bounded turbulence, optical/laser diagnostics, and biofilm-related fluid mechanics). Down-weighted purely biological/molecular and purely theoretical works unless they directly address wall-bounded/tunnel/diagnostic methods. Selected and ranked items focused on experimental fluid mechanics and optical diagnostic methods (PIV/LED-PIV, water/hot-flow tunnels, wake and vortex dynamics, droplet experiments). Heavily downweighted biomedical and molecular-biology items in the feed. Prioritized items relevant to experimental fluid dynamics, optical/laser diagnostics, and high-speed data processing. Papers about biology, immunology, cancer, or purely molecular work were deprioritized.
 
-**Included:** 18 (score ≥ 0.35)  
-**Scored:** 22 total items
+**Included:** 16 (score ≥ 0.35)  
+**Scored:** 18 total items
 
 ---
 
 ## [Development of dynamic calibration system for high-frequency response evaluation of fast pressure-sensitive paint using cavity-induced flapping jet](https://link.springer.com/article/10.1007/s00348-026-04188-0)
 *Experiments in Fluids*  
-Score: **0.98**  
+Score: **0.95**  
 Published: 2026-02-17T00:00:00+00:00
-Tags: PSP, optical diagnostics, high-frequency, experiments, calibration
+Tags: PSP, optical-diagnostics, high-frequency, methods, experiments
 
-This is an experimental method paper for high-frequency calibration of fast pressure-sensitive paint using cavity-induced jets, directly relevant to optical diagnostic systems and high-speed pressure measurements.
+This is an experimental methods paper on high-frequency calibration of fast pressure-sensitive paint (PSP) using cavity-induced flapping jets, directly relevant to optical/laser diagnostics and high-frequency measurement systems. The summary explicitly reports fast PSP measurements and kHz-range calibration frequencies, matching interests in optical diagnostics and experimental methods.
 
 <details>
 <summary>RSS summary</summary>
@@ -24,30 +24,13 @@ This is an experimental method paper for high-frequency calibration of fast pres
 
 ---
 
-## [Characterizing floating particle clustering in free surface turbulence using LED-based PIV](https://link.springer.com/article/10.1007/s00348-026-04185-3)
-*Experiments in Fluids*  
-Score: **0.98**  
-Published: 2026-02-14T00:00:00+00:00
-Tags: free-surface, particle clustering, LED-PIV, particle tracking, water tunnel
-
-Directly targets particle clustering at an air–water interface and explicitly uses LED-based PIV for tracking floaters in a turbulent free surface — highly aligned with particle tracking and free-surface experiment interests.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>Dispersed two-phase flows at air–water interfaces are ubiquitous in environmentally relevant flows such as in the dispersion of floating microplastics or transport processes across the air–sea interface. In the current study, we propose a method to study such flows through the study of a relatively flat turbulent free surface laden with spherical floating particles (“floaters”). The free surface is perturbed by a relatively low-mean nearly homogeneous subsurface turbulent flow that is produce…
-
-</details>
-
----
-
 ## [Wingtip vortex dynamics at low Reynolds numbers under the influence of turbulence](https://link.springer.com/article/10.1007/s00348-026-04183-5)
 *Experiments in Fluids*  
 Score: **0.95**  
 Published: 2026-02-16T00:00:00+00:00
-Tags: wingtip vortex, low-Re, water tunnel, PIV, aerodynamics
+Tags: water tunnel, wingtip vortex, low-Re, PIV, aerodynamics
 
-Water-tunnel experiments on a NACA0012 half-wing at Re=5000 with longitudinal PIV and focus on wingtip vortex behavior — directly relevant to wing/tunnel experiments and PIV diagnostics.
+Water-tunnel experiments on a NACA0012 half-wing at Re=5000 using longitudinal PIV directly match interests in water-tunnel testing, low-Re aerodynamics and optical particle-imaging diagnostics.
 
 <details>
 <summary>RSS summary</summary>
@@ -62,9 +45,9 @@ Abstract <p>The influence of turbulence on the aerodynamics of a NACA0012 wing a
 *Experiments in Fluids*  
 Score: **0.95**  
 Published: 2026-02-12T00:00:00+00:00
-Tags: Taylor-Couette, mixing, laser-induced fluorescence, experiments, methods
+Tags: Taylor-Couette, laser-induced fluorescence, mixing, experiments
 
-Experimental study in a Taylor–Couette cell that uses laser-induced fluorescence to quantify mixing in complex suspensions, directly matching interests in laboratory fluid-dynamics experiments and optical diagnostics.
+Directly reports experiments in a Taylor–Couette cell using laser-induced fluorescence, which matches wall-bounded/rotating shear experiments and optical diagnostic systems relevant to particle/flow studies.
 
 <details>
 <summary>RSS summary</summary>
@@ -79,9 +62,9 @@ Experimental study in a Taylor–Couette cell that uses laser-induced fluorescen
 *Experiments in Fluids*  
 Score: **0.92**  
 Published: 2026-02-14T00:00:00+00:00
-Tags: high-speed PIV, hot-flow, wake dynamics, buffeting, experimental methods
+Tags: hot-flow, high-speed PIV, wake, buffeting, launcher
 
-Describes hot-flow experiments and high-speed PIV to study launcher base-region wake/buffeting, aligning with high-speed PIV, wake dynamics and wind/hot-flow tunnel experiment interests.
+Study uses hot-flow experiments and high-speed PIV to probe launcher-base wake and buffeting, so it’s highly relevant to wind/hot-flow tunnel tests and optical diagnostic systems.
 
 <details>
 <summary>RSS summary</summary>
@@ -92,30 +75,13 @@ Describes hot-flow experiments and high-speed PIV to study launcher base-region 
 
 ---
 
-## [Causally coherent structures in turbulent dynamical systems](https://arxiv.org/abs/2602.13899)
+## [Droplet impact on surfactant-laden thin liquid films: Vortex ring dynamics](https://arxiv.org/abs/2602.14118)
 *arXiv Fluid Dynamics*  
 Score: **0.90**  
 Published: 2026-02-17T05:00:00+00:00
-Tags: TBL, coherent structures, transfer entropy, wall-bounded turbulence, data analysis
+Tags: droplet-impact, vortex-rings, imaging, experiments, instability
 
-Applies transfer entropy to identify causally coherent motions in a zero-pressure-gradient turbulent boundary layer, directly pertinent to wall-bounded turbulence and coherence/structure detection.
-
-<details>
-<summary>RSS summary</summary>
-
-arXiv:2602.13899v1 Announce Type: new Abstract: The extraction of spatio-temporal coherence in high-dimensional, chaotic, non-linear dynamical systems, such as turbulent flows, remains a fundamental challenge in physics, mathematics and engineering. In this work, we employ Shannon transfer entropy (TE) to identify causally coherent motions in a zero-pressure-gradient turbulent boundary layer (TBL). This causality metric, rooted in information theory, enables the identification of sources and tar…
-
-</details>
-
----
-
-## [Droplet impact on surfactant-laden thin liquid films: Vortex ring dynamics](https://arxiv.org/abs/2602.14118)
-*arXiv Fluid Dynamics*  
-Score: **0.85**  
-Published: 2026-02-17T05:00:00+00:00
-Tags: droplet impact, vortex rings, experiments, imaging, surfactant
-
-Experimental study of droplet impact with imaging of vortex-ring dynamics and a regime map in Reynolds number and film thickness, relevant to droplet experiments and flow-visualization/particle-tracking techniques.
+Experimental investigation of droplet impact with emphasis on vortex-ring dynamics and imaging (bottom and side views) directly aligns with interests in particle/flow imaging and fluid dynamics experiments. The work includes regimes, instability thresholds, and observable vortex-ring behavior—useful for experimental design and diagnostics.
 
 <details>
 <summary>RSS summary</summary>
@@ -126,13 +92,30 @@ arXiv:2602.14118v1 Announce Type: new Abstract: Droplet impact on surfactant-lad
 
 ---
 
+## [Characterizing floating particle clustering in free surface turbulence using LED-based PIV](https://link.springer.com/article/10.1007/s00348-026-04185-3)
+*Experiments in Fluids*  
+Score: **0.90**  
+Published: 2026-02-14T00:00:00+00:00
+Tags: free-surface, particle clustering, LED-PIV, particle tracking, environmental flows
+
+Direct study of floaters in a turbulent free surface using LED-based PIV targets particle-tracking and free-surface turbulent transport—relevant to microplastic transport and particle-tracking experiments.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Dispersed two-phase flows at air–water interfaces are ubiquitous in environmentally relevant flows such as in the dispersion of floating microplastics or transport processes across the air–sea interface. In the current study, we propose a method to study such flows through the study of a relatively flat turbulent free surface laden with spherical floating particles (“floaters”). The free surface is perturbed by a relatively low-mean nearly homogeneous subsurface turbulent flow that is produce…
+
+</details>
+
+---
+
 ## [Predicting liquid properties and behavior via droplet pinch-off and machine learning](https://arxiv.org/abs/2511.21847)
 *arXiv Fluid Dynamics*  
-Score: **0.80**  
+Score: **0.85**  
 Published: 2026-02-17T05:00:00+00:00
-Tags: droplet pinch-off, machine learning, experiments, imaging, property inference
+Tags: pinch-off, machine-learning, imaging, droplet-experiments, diagnostics
 
-Demonstrates that droplet pinch-off imaging encodes fluid properties which ML can infer, directly relevant to droplet experiments, imaging diagnostics, and experimental inference methods.
+Uses time-evolving droplet-interface images near pinch-off with ML to infer fluid properties like viscosity and surface tension, directly relevant to optical diagnostics and imaging-based particle/feature tracking in droplet experiments. The summary specifies image snapshots and ML inference of fluid properties.
 
 <details>
 <summary>RSS summary</summary>
@@ -145,11 +128,11 @@ arXiv:2511.21847v2 Announce Type: replace Abstract: Here we demonstrate that the
 
 ## [Size effect on the surface deformation-induced frequency shifts of oscillating droplets](https://link.springer.com/article/10.1007/s00348-026-04186-2)
 *Experiments in Fluids*  
-Score: **0.78**  
+Score: **0.80**  
 Published: 2026-02-13T00:00:00+00:00
-Tags: drop oscillation, experiments, numerical–experimental, multiphase, measurements
+Tags: droplet oscillation, ALE, experiments, frequency shifts, multiphase
 
-Combines high-resolution simulations with experimental drop measurements to study oscillation frequency shifts — relevant to experimental fluid dynamics and optical/measurement methods on small-scale multiphase flows.
+Combines experiments and high-resolution ALE simulations to study droplet oscillation frequencies; relevant to experimental fluid-dynamics methods and optical diagnostics of multiphase flows.
 
 <details>
 <summary>RSS summary</summary>
@@ -160,13 +143,47 @@ Combines high-resolution simulations with experimental drop measurements to stud
 
 ---
 
+## [Instability of microbial droplets growing on viscous substrates](https://arxiv.org/abs/2602.13724)
+*arXiv Fluid Dynamics*  
+Score: **0.72**  
+Published: 2026-02-17T05:00:00+00:00
+Tags: biofilm, free-boundary, fluid-flows, growth-driven, experiments-modeling
+
+Develops a free-boundary fluid-mechanics model for microbial droplets on viscous substrates with flow coupling; relevant to biofilm/soft-matter experiments that probe growth-driven flows despite the microbiological context. The summary emphasizes growth-induced stresses and resulting fluid flows.
+
+<details>
+<summary>RSS summary</summary>
+
+arXiv:2602.13724v1 Announce Type: new Abstract: We develop and analyze a model for a flat microbial droplet growing on the surface of a three-dimensional viscous fluid. The model describes growth-induced stresses at the fluid surface, density variations in the bulk due to nutrient consumption, and the resulting fluid flows that arise. We reformulate this free-boundary problem as a system of integro-differential equations defined solely on the microbial domain. From this formulation, we identify …
+
+</details>
+
+---
+
+## [Causally coherent structures in turbulent dynamical systems](https://arxiv.org/abs/2602.13899)
+*arXiv Fluid Dynamics*  
+Score: **0.70**  
+Published: 2026-02-17T05:00:00+00:00
+Tags: TBL, wall-bounded, coherent-structures, information-theory, data-analysis
+
+Applies Shannon transfer entropy to identify causally coherent motions in a zero-pressure-gradient turbulent boundary layer, which is directly relevant to wall-bounded turbulence experiments and structure extraction from flow data. The method targets sources/targets in TBL datasets that experimentalists commonly measure.
+
+<details>
+<summary>RSS summary</summary>
+
+arXiv:2602.13899v1 Announce Type: new Abstract: The extraction of spatio-temporal coherence in high-dimensional, chaotic, non-linear dynamical systems, such as turbulent flows, remains a fundamental challenge in physics, mathematics and engineering. In this work, we employ Shannon transfer entropy (TE) to identify causally coherent motions in a zero-pressure-gradient turbulent boundary layer (TBL). This causality metric, rooted in information theory, enables the identification of sources and tar…
+
+</details>
+
+---
+
 ## [Uncovering bistability phenomena in two-layer Couette flow experiments using nonlocal evolution equations](https://arxiv.org/abs/2511.20880)
 *arXiv Fluid Dynamics*  
-Score: **0.75**  
+Score: **0.68**  
 Published: 2026-02-17T05:00:00+00:00
-Tags: Couette flow, experiments, interfacial waves, bistability, wall-bounded
+Tags: Couette, bistability, shear-flow, experiments, nonlocal-models
 
-Analyzes bistability phenomena observed in two-layer Couette flow experiments using a nonlinear nonlocal model, making it relevant to wall-bounded shear experiments and interfacial flow dynamics.
+Addresses bistability observed in two-layer Couette flow experiments using a nonlinear nonlocal asymptotic model, directly linking to shear-flow experimental phenomena and stability/transition behavior in confined shear setups. The summary mentions experimental observations of two stable travelling waves.
 
 <details>
 <summary>RSS summary</summary>
@@ -177,30 +194,40 @@ arXiv:2511.20880v3 Announce Type: replace Abstract: This paper investigates the 
 
 ---
 
-## [Shape, confinement and inertia effects on the dynamics of a driven spheroid in a viscous fluid](https://arxiv.org/abs/2602.13336)
+## [Higher-order mean velocity profile in the convective atmospheric boundary layer](https://arxiv.org/abs/2602.13512)
 *arXiv Fluid Dynamics*  
-Score: **0.70**  
+Score: **0.62**  
 Published: 2026-02-17T05:00:00+00:00
-Tags: particle dynamics, microchannel, lattice Boltzmann, experiments, confinement
+Tags: ABL, boundary-layer, field-measurements, scaling, profiles
 
-Studies driven anisotropic particle dynamics in a confined microchannel using lattice Boltzmann and far-field hydrodynamic theory, relevant to particle tracking and confined viscous-flow experiments.
+Derives higher-order mean velocity profiles for the convective atmospheric boundary layer and uses field measurement data; relevant to boundary-layer scaling and field/tunnel experiments on wall-bounded flows. The abstract notes departures from log-law and MOST, which matters for ABL experimental interpretation.
 
 <details>
 <summary>RSS summary</summary>
 
-arXiv:2602.13336v1 Announce Type: cross Abstract: The dynamics of anisotropic particles in viscous flows underpin a wide range of processes in soft matter, microfluidics, and targeted drug delivery. Here, we investigate the motion of externally driven prolate and oblate spheroids suspended in a Newtonian fluid and confined within a square microchannel. Using lattice Boltzmann simulations, complemented by far-field hydrodynamic theory based on superposition of wall interactions, we systematically…
+arXiv:2602.13512v1 Announce Type: new Abstract: The higher-order mean velocity profile in the convective atmospheric boundary layer (CBL) is derived using the method of matched asymptotic expansions. The universal expansion coefficients are obtained using field measurement data. The profile accounts for the departures from the (leading-order) log law and local-free-convection scaling as well as the deviations from the Monin-Obukhov Similarity theory (MOST). Invoking MOST and the Multipoint Monin…
 
 </details>
 
 ---
 
+## [High-Speed RDC Data Averaging Through Dynamic Time Warping](https://link.springer.com/article/10.1007/s10494-026-00732-4)
+*Flow, Turbulence and Combustion*  
+Score: **0.60**  
+Published: 2026-02-12T00:00:00+00:00
+Tags: data processing, high-speed, dynamic time warping, methods
+
+Title indicates a high-speed data-averaging method using dynamic time warping; this could be useful for processing high-rate measurements in turbulence or particle-tracking experiments.
+
+---
+
 ## [Wavemaker and endogeneity of gravitationally stretched weakly viscoelastic jets](https://arxiv.org/abs/2602.14627)
 *arXiv Fluid Dynamics*  
-Score: **0.65**  
+Score: **0.58**  
 Published: 2026-02-17T05:00:00+00:00
-Tags: jets, capillary, viscoelastic, drop generation, stability
+Tags: jets, capillary, extensional-rheometry, wavemaker, experiments-modeling
 
-Addresses transitions in gravitationally stretched capillary jets and analyzes global eigenvalue predictions, relevant to jet/jetting experiments and droplet generation phenomena.
+Focuses on stretched capillary jets, transitions to self-excited oscillations, and connections to drop generation and extensional-rheometry—all experimental topics of interest for jet/drop experiments and diagnostics. The summary references jetting-to-oscillation transitions and slender-jet eigenanalysis.
 
 <details>
 <summary>RSS summary</summary>
@@ -211,96 +238,35 @@ arXiv:2602.14627v1 Announce Type: new Abstract: Highly stretched capillary jets 
 
 ---
 
-## [High-Speed RDC Data Averaging Through Dynamic Time Warping](https://link.springer.com/article/10.1007/s10494-026-00732-4)
-*Flow, Turbulence and Combustion*  
-Score: **0.65**  
-Published: 2026-02-12T00:00:00+00:00
-Tags: data-processing, dynamic time warping, high-speed, methods
-
-Title indicates a methods paper on averaging high-speed experimental data using dynamic time warping, which is relevant to processing and analysis of high-speed particle-tracking or turbulence measurements.
-
----
-
-## [Preconditioned Adjoint Data Assimilation for Two-Dimensional Decaying Isotropic Turbulence](https://arxiv.org/abs/2602.14016)
+## [LAViG-FLOW: Latent Autoregressive Video Generation for Fluid Flow Simulations](https://arxiv.org/abs/2601.13190)
 *arXiv Fluid Dynamics*  
-Score: **0.60**  
+Score: **0.52**  
 Published: 2026-02-17T05:00:00+00:00
-Tags: data assimilation, adjoint, turbulence, reconstruction, methods
+Tags: ML, video-generation, simulations, data-driven, diagnostics-support
 
-Improves adjoint-based data assimilation for turbulent Navier–Stokes flows by addressing adjoint spectral weighting, which is relevant to reconstructing turbulent experiments from sparse measurements.
+Presents ML-based video generation for fluid-flow fields which could support synthetic training data or analysis pipelines for particle-tracking and imaging diagnostics in experiments. The summary highlights video-generation for multiphase subsurface flow simulations.
 
 <details>
 <summary>RSS summary</summary>
 
-arXiv:2602.14016v1 Announce Type: new Abstract: Adjoint-based data assimilation for turbulent Navier-Stokes flows is fundamentally limited by the behavior of the adjoint dynamics: in backward time, adjoint fields exhibit exponential growth and become increasingly dominated by small-scale structures, severely degrading reconstruction of the initial condition from sparse measurements. We demonstrate that the relative weighting of spectral components in the adjoint formulation can be systematically…
+arXiv:2601.13190v2 Announce Type: replace-cross Abstract: Modeling and forecasting subsurface multiphase fluid flow fields underpin applications ranging from geological CO2 sequestration (GCS) operations to geothermal production. This is essential for ensuring both operational performance and long-term safety. While high fidelity multiphase simulators are widely used for this purpose, they become prohibitively expensive once many forward runs are required for inversion purposes and to quantify u…
 
 </details>
 
 ---
 
-## [Vortex breakdown and its topologies in turbulent flows within a typical swirl combustor geometry](https://arxiv.org/abs/2511.11420)
-*arXiv Fluid Dynamics*  
-Score: **0.55**  
-Published: 2026-02-17T05:00:00+00:00
-Tags: vortex breakdown, LES, swirl, experiments, topology
-
-LES investigation of vortex breakdown topologies in a swirl combustor and quantification of onset using swirl-number metrics, relevant to experimental studies of vortical breakdown and diagnostics.
-
-<details>
-<summary>RSS summary</summary>
-
-arXiv:2511.11420v2 Announce Type: replace Abstract: We investigate vortex breakdown (VB) and its dominant topologies in turbulent, non-reacting flows within a canonical swirl combustor using large-eddy simulations (LES). A baseline configuration and operating conditions are first used to validate the LES solver, then five additional cases differing only by swirler vane-angle are simulated. The onset of VB is quantified using the generic swirl-number formulation, SNg, by detecting an internal rec…
-
-</details>
-
----
-
-## [Resolving Cryogenic and Hypersonic Rarefied Flows via Deep Learning-Accelerated Lennard-Jones DSMC](https://arxiv.org/abs/2602.13601)
+## [Shape, confinement and inertia effects on the dynamics of a driven spheroid in a viscous fluid](https://arxiv.org/abs/2602.13336)
 *arXiv Fluid Dynamics*  
 Score: **0.50**  
 Published: 2026-02-17T05:00:00+00:00
-Tags: DSMC, rarefied flows, ML, hypersonic, simulation
+Tags: particle-dynamics, microfluidics, lattice-Boltzmann, confinement, simulations
 
-Presents a machine-learning-accelerated DSMC approach incorporating Lennard-Jones interactions for rarefied cryogenic and hypersonic flows; relevant for simulation of high-speed experimental facilities though primarily computational.
-
-<details>
-<summary>RSS summary</summary>
-
-arXiv:2602.13601v1 Announce Type: new Abstract: Integrating a physically realistic Lennard Jones LJ potential into Direct Simulation Monte Carlo DSMC has long been hindered by the high cost of evaluating detailed scattering dynamics. We present a high-fidelity, machine-learning-accelerated framework that bridges rigorous molecular physics and large-scale kinetic simulation, implemented within Bird standard DSMC algorithm suite. Two challenges are solved incorporating LJ consistent properties int…
-
-</details>
-
----
-
-## [Boundary-velocity error and stability of the accelerated multi-direct-forcing immersed boundary method](https://arxiv.org/abs/2507.04986)
-*arXiv Fluid Dynamics*  
-Score: **0.45**  
-Published: 2026-02-17T05:00:00+00:00
-Tags: immersed boundary, moving particles, numerical stability, methods
-
-Analyzes velocity error and numerical stability of an accelerated immersed-boundary method for moving-particle problems, which can impact particle-tracking simulations and experimental-numerical comparisons.
+Studies motion of driven anisotropic particles in a confined microchannel using lattice Boltzmann simulations and hydrodynamic theory, which is relevant to particle-tracking and confined-flow experiments despite being simulation-heavy. The summary describes parameter studies of confinement and inertia.
 
 <details>
 <summary>RSS summary</summary>
 
-arXiv:2507.04986v3 Announce Type: replace Abstract: The multi-direct-forcing immersed boundary method allows for a small velocity error of the no-slip condition in moving-particle problems but suffers from numerical instability if simulation parameters are not carefully chosen. This study investigates the boundary-velocity error and numerical stability of the accelerated multi-direct-forcing immersed boundary method. An analysis of the discretized equations of body motion in moving boundary prob…
-
-</details>
-
----
-
-## [Fluidic Shaping over arbitrary domains: theory and high order finite-elements solver](https://arxiv.org/abs/2602.14856)
-*arXiv Fluid Dynamics*  
-Score: **0.40**  
-Published: 2026-02-17T05:00:00+00:00
-Tags: fluidic shaping, optics, finite elements, fabrication
-
-Describes Fluidic Shaping to produce optical components from liquid equilibrium shapes and presents a high-order solver; of peripheral interest for optical-component fabrication and precision-fluid shaping.
-
-<details>
-<summary>RSS summary</summary>
-
-arXiv:2602.14856v1 Announce Type: new Abstract: Fluidic Shaping is a novel method for fabrication of optical components based on the equilibrium state of liquid volumes in neutral buoyancy, subjected to geometrical constraints. The underlying physics of this method is described by a highly nonlinear partial differential equation with Dirichlet boundary conditions and an integral constraint. To date, useful solutions for such optical liquid surfaces could be obtained analytically only for the lin…
+arXiv:2602.13336v1 Announce Type: cross Abstract: The dynamics of anisotropic particles in viscous flows underpin a wide range of processes in soft matter, microfluidics, and targeted drug delivery. Here, we investigate the motion of externally driven prolate and oblate spheroids suspended in a Newtonian fluid and confined within a square microchannel. Using lattice Boltzmann simulations, complemented by far-field hydrodynamic theory based on superposition of wall interactions, we systematically…
 
 </details>
 
