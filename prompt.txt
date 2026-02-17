@@ -12,6 +12,10 @@ Prioritize and heavily weight:
 - fluid dynamics experiments
 - water tunnel experiements
 - wind tunnel experiments
+- wall-bounded turbulence experiments
+- laser diagnostic systems
+- optical diagnostic systems
+- biofilm experiments
 
 Output rules:
 - Return JSON strictly matching the schema.
